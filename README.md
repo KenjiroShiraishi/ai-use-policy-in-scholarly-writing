@@ -4,13 +4,19 @@ This repository provides practical templates and examples for transparent, ethic
 
 We offer:
 
-- A proposed policy for AI usage disclosure in manuscripts
-- Templates for AI prompt retention (PDF format)
-- Markdown-based disclosure examples in both English and Japanese
+- A proposed policy for AI usage disclosure in manuscripts  
+- Templates for AI prompt retention (PDF format)  
+- Markdown-based disclosure examples in both English and Japanese  
 - GitHub-friendly folder structures for reproducibility
 
 This project is part of a broader initiative to promote responsible AI use, reproducibility, and trust in scientific publishing.
 
 📘 If you're submitting to NEJM AI, BMJ, or JAMA, feel free to reuse and modify these templates.
 
-Maintained by: [Your Name / ORCID]
+---
+
+**Author**: Kenjiro Shiraishi  
+**Affiliation**: Tanashi Kitaguchi Acupuncture and Moxa Clinic  
+Nozaki Building 301, 2-9-6 Tanashicho, Nishitokyo City, Tokyo 188-0011, Japan  
+**ORCID**: [0009-0003-2550-7385](https://orcid.org/0009-0003-2550-7385)  
+**Email**: kenjiroushiraishi@hotmail.co.jp
