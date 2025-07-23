@@ -11,6 +11,8 @@ We offer:
 
 This project is part of a broader initiative to promote responsible AI use, reproducibility, and trust in scientific publishing.
 
+📝 We recommend that all prompts and AI interactions used during manuscript preparation be saved as PDF files. These should be retained by the authors and made available to journal editors upon request, to ensure transparency and accountability in the writing process.
+
 📘 If you're submitting to NEJM AI, BMJ, or JAMA, feel free to reuse and modify these templates.
 
 ---
