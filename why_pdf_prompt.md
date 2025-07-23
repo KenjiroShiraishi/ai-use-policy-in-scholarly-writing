@@ -12,8 +12,9 @@ Unlike Markdown or `.txt` files, PDF files are less susceptible to unnoticed mod
 In open science, reproducibility is not just about data and code, but also the tools and prompts used during manuscript development. Treating AI prompts as **part of the research process** enhances future reanalysis, reuse, and transparency.
 
 ## 4. Alignment with Emerging Academic Norms
-Journals such as *NEJM AI* and *Nature* are beginning to request that authors **submit their AI prompts** along with manuscripts. Having these ready as PDF enables **rapid compliance with editorial or post-publication inquiries.**
+Leading journals such as NEJM AI and Nature are beginning to require disclosure of generative AI use. However, formal guidelines for saving or submitting prompts are not yet established.
 
+We therefore propose that authors retain all prompts and AI outputs as PDF files, so they can be made available to editors or reviewers upon request, in the interest of transparency and accountability.
 ## 5. Trust Building
 Skepticism toward AI-generated writing is increasing. Providing concrete records of prompts clarifies the boundaries between **human intellectual input and AI assistance**, thereby building trust with editors, readers, and co-authors.
 
