@@ -17,4 +17,4 @@ Journals such as *NEJM AI* and *Nature* are beginning to request that authors **
 ## 5. Trust Building
 Skepticism toward AI-generated writing is increasing. Providing concrete records of prompts clarifies the boundaries between **human intellectual input and AI assistance**, thereby building trust with editors, readers, and co-authors.
 
-> 📎 Example: [AI Prompt Archive for BMJ Medical Humanities Submission (PDF)](prompts/shiraishi_mh2025_prompts.pdf)
+> 📎 Example: coming soon
