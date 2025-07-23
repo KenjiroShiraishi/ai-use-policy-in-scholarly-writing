@@ -18,4 +18,4 @@ We therefore propose that authors retain all prompts and AI outputs as PDF files
 ## 5. Trust Building
 Skepticism toward AI-generated writing is increasing. Providing concrete records of prompts clarifies the boundaries between **human intellectual input and AI assistance**, thereby building trust with editors, readers, and co-authors.
 
-> 📎 Example: coming soon
+> 📎 Example: [coming soon](https://github.com/KenjiroShiraishi/ai-use-policy-in-scholarly-writing/blob/main/prompt-example.pdf)
