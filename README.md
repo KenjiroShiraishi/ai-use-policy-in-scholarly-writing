@@ -1,2 +1,16 @@
-# ai-use-policy-in-scholarly-writing
-Templates and policy examples for transparent AI use in academic writing.
+# Transparent AI Use in Scholarly Writing
+
+This repository provides practical templates and examples for transparent, ethical use of generative AI tools (e.g., ChatGPT, Claude) in academic writing.
+
+We offer:
+
+- A proposed policy for AI usage disclosure in manuscripts
+- Templates for AI prompt retention (PDF format)
+- Markdown-based disclosure examples in both English and Japanese
+- GitHub-friendly folder structures for reproducibility
+
+This project is part of a broader initiative to promote responsible AI use, reproducibility, and trust in scientific publishing.
+
+📘 If you're submitting to NEJM AI, BMJ, or JAMA, feel free to reuse and modify these templates.
+
+Maintained by: [Your Name / ORCID]
