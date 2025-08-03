@@ -23,7 +23,6 @@ This repository supports the Perspective article titled:
 
 - Submitted to **NEJM AI** on **July 23, 2025**  
 - Manuscript ID: **AI-25-00825**  
-- Status: **Under peer review** (as of August 3, 2025)  
 
 This repository was created and made public prior to submission to ensure transparency and reproducibility.  
 GitHub commit history serves as a timestamped record.
