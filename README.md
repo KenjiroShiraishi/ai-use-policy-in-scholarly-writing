@@ -16,18 +16,6 @@ This project is part of a broader initiative to promote responsible AI use, repr
 
 ---
 
-## 📝 Submission Status
-
-This repository supports the Perspective article titled:  
-**"AI Is Not an Author, but Its Instructions Should Be Preserved: Ethical and Practical Considerations for Saving Prompts in Scholarly Writing"**
-
-- Submitted to **NEJM AI** on **July 23, 2025**  
-- Manuscript ID: **AI-25-00825**  
-
-This repository was created and made public prior to submission to ensure transparency and reproducibility.  
-GitHub commit history serves as a timestamped record.
-
----
 
 ## ✍️ Author Information
 
